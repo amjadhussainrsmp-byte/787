@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Noornama",
+      "hasCanvas": false,
+      "bodyTextLen": 3678,
+      "bodyTextHash": "753d36f6e973bae4ccedcc069bdac0fe3ad2538e9fc22605db51a1f6e85d595c",
+      "bodyTextPrefix": "Noornama Poetry Poets Quotes Qawwali Stories Terms Places Search",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Noornama",
+      "hasCanvas": false,
+      "bodyTextLen": 3622,
+      "bodyTextHash": "386ff06ebf9aefcaa99102dd922039894ecce94a12840b242bc482d8bce227e9",
+      "bodyTextPrefix": "Noornama TODAY'S LIGHT A library of Sufi poetry and the old name",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
